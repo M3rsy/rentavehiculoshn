@@ -355,3 +355,17 @@ VALUES
 INSERT INTO vehiculosrentas (id_cliente,id_vehiculo,nota,total,fecha_entrega,id_empleado_entrega,empleado_entrega,empleado_recibe,id_empleado_recibe,fecha_registro,fecha_actualizacion) 
 VALUES
 ('15','4','NOTA4','14664.69','20221122','6','20221122','20221122','6','20221127','20221127');
+
+SELECT * FROM surcusales; 
+
+SELECT * FROM empleados; 
+
+SELECT * FROM clientes; 
+
+SELECT * FROM marcas; 
+
+SELECT * FROM modelos; 
+
+SELECT * FROM vehiculos; 
+
+SELECT * FROM vehiculosrentas; 
